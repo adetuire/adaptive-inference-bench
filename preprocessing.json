@@ -1,0 +1,8 @@
+{
+  "stage": "JPEG error-level preprocessing only",
+  "machine": "arm64",
+  "samples": 320,
+  "unique_synthetic_images": 32,
+  "images_per_second": 819.6141230606169,
+  "p95_ms": 1.3168812380172312
+}

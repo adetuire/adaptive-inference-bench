@@ -1,0 +1,3 @@
+{"clients": 1, "requests": 160, "failures": 0, "successful_per_second": 45.83738200409397, "p95_ms": {"end_to_end": 27.104204200441014, "queue": 5.732043739408255, "batch_model": 18.029838928487138}}
+{"clients": 4, "requests": 160, "failures": 0, "successful_per_second": 123.0982601748857, "p95_ms": {"end_to_end": 34.057599335210384, "queue": 6.221848219865932, "batch_model": 23.987575381761392}}
+{"clients": 16, "requests": 160, "failures": 0, "successful_per_second": 141.85047412371532, "p95_ms": {"end_to_end": 224.81276597827625, "queue": 78.57753480202429, "batch_model": 100.6583298847535}}
